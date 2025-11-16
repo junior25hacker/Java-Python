@@ -1,4 +1,4 @@
-                                                             Dual-Track Application Foundations: Python and Java
+                       Dual-Track Application Foundations: Python and Java
 
 This repository contains a structured, 7-day intensive curriculum designed to build solid foundational skills in both Python (for rapid development and scripting) and Java (for robust, enterprise application development).
 
