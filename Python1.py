@@ -4,3 +4,6 @@
 # the class should be named Rectangle and the method should be named area.
 #the class should be define in the main function. to use the methods
 
+
+
+print ("Huela")
